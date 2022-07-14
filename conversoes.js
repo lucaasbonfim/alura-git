@@ -7,5 +7,6 @@
 
  console.log(numero + Number(numeroString));
 
- // conversão explícita
+// conversão explícita
 
+// Number() and String()

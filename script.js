@@ -5,7 +5,7 @@ var comprimento = 7;
 
 var area = altura * comprimento;
 
-console.log(area);
+//console.log(area);
 
 //let
 
@@ -19,3 +19,9 @@ const altura2 = 5;
 const comprimento2 = 7;
 
 
+// tipagem dinâmica
+// untyped
+
+let minhaVar = 567;
+minhaVar = 'texto';
+minhaVar = true;
